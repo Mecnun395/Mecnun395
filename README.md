@@ -18,7 +18,8 @@
 ### Tech Stack
 
 #### Programing Languages
-![Pyhton].(https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjn-IzR-pWTAxXF0AIHHeDjNZAQFnoECA0QAQ&url=https%3A%2F%2Fwww.python.org%2Fcommunity%2Flogos%2F&usg=AOvVaw06NHYmFzgEWB-D6Ag4fdKd&opi=89978449)
+![Pyhton].(<img width="211" height="71" alt="image" src="https://github.com/user-attachments/assets/977c122f-6457-4938-b4e7-a11034af605e" />
+
 ![JavaScript].
 
 #### Tools & Technologies
