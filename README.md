@@ -15,11 +15,16 @@
 - e
 
 ---
+### Tech Stack
 
-### Programing Languages
-![Pyhton].(<img width="269" height="326" alt="image" src="https://github.com/user-attachments/assets/d2c70451-69dc-4192-983c-33d9b8761f00" />)
-![JavaScript]
+#### Programing Languages
+![Pyhton].(https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjn-IzR-pWTAxXF0AIHHeDjNZAQFnoECA0QAQ&url=https%3A%2F%2Fwww.python.org%2Fcommunity%2Flogos%2F&usg=AOvVaw06NHYmFzgEWB-D6Ag4fdKd&opi=89978449)
+![JavaScript].
 
+#### Tools & Technologies
+
+
+---
 
 ### Awards and Projects
 -
