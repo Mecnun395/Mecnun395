@@ -18,10 +18,8 @@
 ### Tech Stack
 
 #### Programing Languages
-![Pyhton].[<img width="269" height="326" alt="image" src="https://github.com/user-attachments/assets/8a528b65-8e06-450e-8d2f-e74fd87f119d" />](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png)
-
-
-![JavaScript].https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png
+![Pyhton]
+![JavaScript]
 
 #### Tools & Technologies
 
