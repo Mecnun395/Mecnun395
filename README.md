@@ -18,7 +18,7 @@
 
 ### Programing Languages
 ![Pyhton].(<img width="269" height="326" alt="image" src="https://github.com/user-attachments/assets/d2c70451-69dc-4192-983c-33d9b8761f00" />)
-![JavaScript](<img width="960" height="960" alt="image" src="https://github.com/user-attachments/assets/4cfaa69b-366d-47f9-9271-3fffa1a4e4a4" />)
+![JavaScript]
 
 
 ### Awards and Projects
