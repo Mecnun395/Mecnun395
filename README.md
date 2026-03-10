@@ -1,16 +1,79 @@
-## Hi there 👋
+<h1 align="center"> Hi, I'm Mecnun :wave:! </h1>
+<p align="center">
+  <i> blabla </i>
+  odjew
+</p>
 
-<!--
-**Mecnun395/Mecnun395** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- a
+- b
+- c
+- d
+- e
+
+---
+
+### Programing Languages
+![Pyhton].(<img width="269" height="326" alt="image" src="https://github.com/user-attachments/assets/d2c70451-69dc-4192-983c-33d9b8761f00" />)
+![JavaScript](<img width="960" height="960" alt="image" src="https://github.com/user-attachments/assets/4cfaa69b-366d-47f9-9271-3fffa1a4e4a4" />)
+
+
+### Awards and Projects
+-
+-
+-
+
+---
+
+### Lets Connect
+
+-Email:
+-Instagram:
+-Discord:
+
+---
+
+### GitHub Trophies
+
+
+---
+
+### GitHub Stats
+
+---
+
+### LeetCode Stats
+
+---
+
+<p align="center"> Always building, always learning! </p> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
